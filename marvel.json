@@ -1,0 +1,31 @@
+{
+     "data":
+     [ 
+         { 
+             "section":"Movies",
+             "desc": "All MCU movies in Time-line Order",
+             "image":"https://drive.google.com/file/d/1RBtOOxWgBRr5wPIAgknIjOVwKvTzyBy3/view?usp=sharing"
+             },
+             { 
+                "section":"Series",
+                "desc": "All MCU Series from Disney+ and Netflix",
+                "image":"https://drive.google.com/file/d/13Tmrb3H874L-x4MIr46qG2MSuKYZIPBP/view?usp=sharing"
+                },
+                { 
+                    "section":"Animated-series",
+                    "desc": "All marvel animated-series for kids",
+                    "image":"https://drive.google.com/file/d/1sS14ZzcOmTg4A3kW6dcUvW_pufukYIzJ/view?usp=sharing"
+                    },
+                    { 
+                        "section":"Anime",
+                        "desc": "For all weebs and MCU mutual fans",
+                        "image":"https://drive.google.com/file/d/1ns3Ko1W1bz3wnFxZzOl2D3zGPX3jIaD0/view?usp=sharing"
+                        },
+                        { 
+                            "section":"Documentaries",
+                            "desc": "Find out the making and BTS from MCU",
+                            "image":"https://drive.google.com/file/d/1dpIKCFFnEdjhWRh4kP7vWqatotE-mmgM/view?usp=sharing"
+                        }    
+
+             ]
+            }
